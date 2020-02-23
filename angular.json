@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "component-interaction": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "component-interaction"
+    }
+  },
+  "defaultProject": "component-interaction",
+  "cli": {
+    "analytics": "b35b214a-0f25-4af7-945a-e387a2dcddb3"
+  }
 }
